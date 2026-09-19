@@ -14,7 +14,7 @@ Start with the [workshop guide](https://msa-srm.github.io/Github-Workshop-26/?vi
 
 The validation bot checks the format and merges a valid cell automatically.
 
-## Facilitator reset
+## Facilitator Reset
 
 After a workshop, run **Actions → Reset workshop state**, then type
 `RESET WORKSHOP` exactly. It removes attendee cell files and restores the wall;
